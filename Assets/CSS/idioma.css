@@ -1,0 +1,31 @@
+.idioma{
+  align-items: center;
+  color: #444242;
+  border-style: none;
+  border-radius: 50px;
+  display: flex;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  top: 15px;
+  left: 15px;
+  padding: 5px 12px 5px 12px;
+  width: 121.33px;
+  height: 34px
+}
+
+.bandBrasil{
+  margin: 5px;
+  padding: 5px;
+  width: 24px;
+  height: 24px;
+}
+
+.arrowDrop{
+  margin: 5px;
+  width: 10px;
+  height: 5px;
+}

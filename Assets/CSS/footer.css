@@ -1,0 +1,16 @@
+.rodape{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+position: absolute;
+width: 360px;
+height: 64px;
+left: 0px;
+top: 576px;
+}
+
+.rodape a{
+  margin-right: 15px;
+}

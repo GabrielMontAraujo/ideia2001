@@ -1,0 +1,8 @@
+body{
+  background-color: #444242;;
+}
+
+header{
+  display: flex;
+  align-items: baseline;
+}
