@@ -16,9 +16,7 @@ h3{
 
 }
 
-.infoContat{
-  
-}
+
 
 .infoContat li{
   display: flex;
@@ -40,4 +38,31 @@ h3{
 
 .icones li{
   margin: 5%;
+}
+
+footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 0px;
+  position: absolute;
+  width: 360px;
+  height: 30px;
+  left: 0px;
+  bottom: 0px;
+  background: #FA9401;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #FFFFFF;
+
+  box-shadow: 0px -1px 4px rgba(0, 0, 0, 0.15);
+}
+
+footer p{
+  border-radius: 25px;
 }
