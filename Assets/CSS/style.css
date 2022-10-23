@@ -11,5 +11,6 @@ header{
 @media screen and (width: 640px) and (height:360px){
   footer{
     display: none;
+    margin-top: 2rem;
   }
 }
